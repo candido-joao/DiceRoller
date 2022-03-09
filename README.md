@@ -2,26 +2,25 @@
 Dice Roller App
 =======================
 
-Sample app that randomly rolls a dice and updates the dice image on screen.
-Used in the Android Basics with Kotlin course.
+Aplicativo de exemplo que rola aleatoriamente um dado e atualiza a imagem do dado na tela. Usado no curso Android Basics com Kotlin.
 
-Pre-requisites
+Pré-requisitos
 --------------
 
 - Android SDK 29
 - Android Build Tools v29.0.3
 - Android Support Repository
 
-Getting Started
+Começando
 ---------------
 
-This sample uses the Gradle build system. To build this project, use the
-"gradlew build" command or use "Import Project" in Android Studio.
+Esta amostra usa o sistema de compilação Gradle. Para compilar este projeto,
+use o comando "gradlew build" ou use "Import Project" no Android Studio.
 
-Support
+Suporte
 -------
 
 - Stack Overflow: http://stackoverflow.com/questions/tagged/android
 
-Patches are encouraged, and may be submitted by forking this project and
-submitting a pull request through GitHub. Please see CONTRIBUTING.md for more details.
+Os patches são incentivados e podem ser enviados ao realizar fork deste projeto e 
+enviar uma solicitação de pull por meio do GitHub. Consulte CONTRIBUTING.md para obter mais detalhes.
